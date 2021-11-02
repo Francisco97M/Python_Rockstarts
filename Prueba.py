@@ -1,1 +1,2 @@
-print ('Hello world')
+var = 'hola'
+print (var)
